@@ -1,0 +1,10 @@
+div {
+    background-color: blue;
+    color: white;
+    font-size: 60px;
+}
+span {
+    background-color: white;
+    color:blue;
+    font-size: 30px;
+}
