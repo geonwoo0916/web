@@ -1,0 +1,39 @@
+.div-1{
+    width: 100px;
+    height: 50px;
+    background-color: skyblue;
+    font-size: 20px;
+    color: white;
+}
+
+.div-2{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    font-size: 20px;
+    color: white;
+}
+
+.div-3{
+    width: 200px;
+    height: 150px;
+    background-color: greenyellow;
+    font-size: 20px;
+    color: white;
+}
+
+.div-4{
+    width: 250px;
+    height: 200px;
+    background-color: brown;
+    font-size: 20px;
+    color: white;
+}
+
+.div-5{
+    width: 250px;
+    height: 500px;
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}

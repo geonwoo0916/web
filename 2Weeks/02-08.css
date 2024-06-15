@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.div-1{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    padding-left: 100px;
+}
+
+.div-2{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    padding-left: 100px;
+}
+
+.div-3{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    padding-left: 100px;
+}
+
+.div-4{
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+}
