@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.div-1{
+    width: 500px;
+    height: 500px;
+    background-color: burlywood;
+
+    padding: 50px;
+    border: 3px solid black;
+}
+
+.div-2{
+    background-color: greenyellow;
+}
+
+img{
+    width: 394px;
+    height: 300px;
+}
+
+.div-3{
+    background-color: skyblue;
+}

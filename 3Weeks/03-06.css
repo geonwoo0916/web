@@ -1,0 +1,25 @@
+.div-1{
+    width: 400px;
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    text-align: start;
+    margin-bottom: 20px;
+}
+
+.div-2{
+    width: 400px;
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    text-align: end;
+    margin-bottom: 20px;
+}
+
+.div-3{
+    width: 400px;
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
