@@ -1,0 +1,34 @@
+table {
+    border: 1px solid black;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+.tr-1 {    
+    border: 1px solid black;
+    width: 500px;
+    height: 100px;
+
+    background-color: pink;
+    font-size: 50px;
+    text-align: center;
+}
+
+.tr-2{
+    border: 1px solid black;
+    width: 100px;
+    height: 200px;
+
+    background-color: burlywood;
+    font-size: 40px;
+    text-align: center;
+}
+
+.tr-3{
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+}
