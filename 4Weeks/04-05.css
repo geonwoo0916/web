@@ -1,0 +1,21 @@
+table {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+}
+
+.tr-1 {    
+    background-color: aqua;
+}
+
+.tr-2 {    
+    background-color: blue;
+}
+
+.tr-3 {    
+    background-color: cadetblue;
+}

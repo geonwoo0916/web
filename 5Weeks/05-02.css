@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.div-1 {    
+    background-color: black;
+}
+
+.div-2{
+    background-color: cadetblue;
+
+    left: 100px;
+}
+
+.div-3{
+    background-color: cadetblue;
+
+    top: 100px;
+}
+
+.div-4{
+    background-color: black;
+
+    left: 100px;
+}

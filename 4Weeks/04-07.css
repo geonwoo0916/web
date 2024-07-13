@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+table {
+    border: 1px solid black;
+}
+
+iframe{
+    width: 300px;
+    height: 200px;
+}
+
+.tr-1 {    
+    border: 1px solid black;
+    width: 300px;
+    height: 50px;
+
+    background-color: aqua;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tr-2{
+    border: 1px solid black;
+    width: 300px;
+    height: 50px;
+
+    background-color: burlywood;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tr-3{
+    border: 1px solid black;
+    width: 300px;
+    height: 50px;
+
+    background-color: cadetblue;
+    font-size: 20px;
+    text-align: center;
+}

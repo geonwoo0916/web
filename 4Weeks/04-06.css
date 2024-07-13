@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+table {
+    border: 1px solid black;
+}
+
+.tr-1 {    
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+
+    background-color: pink;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tr-2{
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+
+    background-color: aqua;
+}
