@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    border: 1px solid black;
+}
+
+td {
+    font-size: 20px;
+}
+
+.td-1 {
+    text-align: right;
+}
+
+.td-2 {
+    width: 200px;
+    padding-left: 20px;
+}
+
+.td-3 {
+    text-align: center;
+}
+
+.btn {
+    width: 50%;
+}

@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+table {
+    background-color: skyblue;
+
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+td {
+    width: 200px;
+    font-size: 15px;
+}
+
+.td-1 {
+    text-align: right;
+}
+
+.td-2 {
+    width: 200px;
+    padding-left: 10px;
+}
+
+.td-3 {
+    text-align: center;
+}
+
+.btn {
+    width: 50%;
+    background-color: brown;
+    color: white;
+}
