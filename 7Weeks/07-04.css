@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+
+div {
+    width: 80%;
+    height: 80%;
+    border: 1px solid black;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div:hover {
+    height: 80%;
+    font-size: 150%;
+    background: linear-gradient(125deg,#FC5C7D ,#6A82FB);
+}

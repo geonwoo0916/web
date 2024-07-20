@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: burlywood;
+}
+
+div {
+    background-color: yellow;
+    text-align: center;
+}
+
+.back {
+    width: 50%;
+    height: 80%;
+    border: 1px solid yellow;
+    border-radius: 20px;
+    padding: 10px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title {
+    font-size: 30px;
+}
+
+input {
+    margin-top: 8px;
+    width: 80%;
+    height: 40px;
+    border-radius: 5px;
+    border: 0;
+}
+
+input[type=text] {
+    text-align: start;
+}
+
+input[type=button] {
+    text-align: center;
+}
+
+img {
+    width: 80%;
+    height: 20%;
+}
+
+.log {
+    background-color: rgb(3, 166, 203);
+    color: white;
+}
+
+.id {
+    background-color: yellow;
+}
+
+.naver {
+    background-color: #1ec800;
+    color: white;
+}
+
+.kaka {
+    background-color: rgba(70, 8, 8, 0.699);
+    color: white;
+}
+
+.fase {
+    background-color: rgb(43, 81, 171);
+    color: white;
+}
+
+input:hover {
+    transform: scale(1.1);
+}
