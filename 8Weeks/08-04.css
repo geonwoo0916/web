@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: skyblue;
+}
+
+div {
+    background-color: plum;
+    text-align: center;
+}
+
+.main {
+    width: 300px;
+    height: 100px;
+    border: 1px solid 0;
+    border-radius: 10px;
+    padding: 10px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+a {
+    border-radius: 5px;
+    font-size: 23px;
+}
+
+.naver {
+    color: white;
+    background-color: #1ec800;
+}
+
+.google {
+    color: purple;
+    background-color: white;
+}
+
+a:hover {
+    color: blue;
+}
